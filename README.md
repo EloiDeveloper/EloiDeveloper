@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola! Soy EloiDev, Desarrollador Front-End 👋
 
-<!--
-**EloiDeveloper/EloiDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+¡Hola! Soy Eloi, un apasionado desarrollador Front-End con 2 años y medio de experiencia en la creación de aplicaciones web interactivas y atractivas.
 
-Here are some ideas to get you started:
+## Contacto
+Si te gustaría colaborar en un proyecto o simplemente quieres ponerte en contacto, puedes encontrarme en las siguientes plataformas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Instagram: [eloi35_](https://www.instagram.com/eloi35_/)
+- Discord: [eloidev](https://discord.gg/Hf7jKYmnsz)
+  
+¡Espero tener la oportunidad de colaborar contigo!
+
+ ## Estadísticas
+![EloiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=eloideveloper&show_icons=true&theme=transparent)
+
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloideveloper&layout=compact)
+
