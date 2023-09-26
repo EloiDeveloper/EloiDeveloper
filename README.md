@@ -1,10 +1,10 @@
 # ¡Hola! Soy EloiDev, Desarrollador Front-End 👋
 
 ## Sobre mí
-¡Hola! Soy Eloi, un apasionado desarrollador Front-End con 2 años y medio de experiencia en la creación de aplicaciones web interactivas y atractivas.
+¡Hola! Soy Eloi, un apasionado desarrollador Front-End con 3 años de experiencia en la creación de aplicaciones web interactivas y atractivas.
 
 ## Contacto
-Si te gustaría colaborar en un proyecto o simplemente quieres ponerte en contacto, puedes encontrarme en las siguientes plataformas:
+Si te gustaría colaborar en un proyecto o simplemente quieres ponerte en contacto conmigo, puedes encontrarme en las siguientes plataformas:
 
 - Instagram: [eloi35_](https://www.instagram.com/eloi35_/)
 - Discord: [eloidev](https://discord.gg/Hf7jKYmnsz)
